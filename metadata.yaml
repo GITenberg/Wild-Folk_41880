@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '40894'
     url: http://www.gutenberg.org/2009/agents/40894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41880#Wild-Folk
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
 identifiers:
